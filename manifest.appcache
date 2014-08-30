@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# 1.0.0-snapshot
+
+# This is the minimum viable required to have appcache working
+index.html
+styles.css
+js/main-built.js
+
+NETWORK:
+*
+
+FALLBACK:
+
+SETTINGS:
+prefer-online

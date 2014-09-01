@@ -4,9 +4,6 @@
     "description": "Application to calculate blood alcohol content.",
     "launch_path": "/index.html",
     "appcache_path": "/manifest.appcache",
-    "package_path": "http://ffos-alcohol-calculator.appspot.com/alcohol-calculator.zip",
-    "size": 731807,
-    "release_notes": "First release",
     "installs_allowed_from": ["*"],
     "icons": {
         "16": "/icons/icon_16.png",
@@ -15,7 +12,8 @@
         "128": "/icons/icon_128.png"
     },
     "developer": {
-        "name": "Miroslav Dzúrik"
+        "name": "Miroslav Dzúrik",
+        "url": "http://dzurikmiroslav.github.io/"
     },
     "permissions": {},
     "default_locale": "en",
@@ -23,6 +21,10 @@
         "en": {
             "name": "Alcohol calculator",
             "description": "Application to calculate blood alcohol content."
+        },
+        "es": {
+            "name": "Calculadora de alcohol",
+            "description": "Aplicación para calcular el contenido de alcohol en sangre."
         },
         "sk": {
             "name": "Alkohol kalkulačka",

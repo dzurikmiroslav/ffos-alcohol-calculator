@@ -1,10 +1,18 @@
 CACHE MANIFEST
 # 1.0.0-snapshot
 
-# This is the minimum viable required to have appcache working
+CACHE:
 index.html
-styles.css
+icons/favicon.ico
+css/styles.css
+js/angular-build.js
 js/main-built.js
+js/i18n/angular-locale_en-us.js
+js/i18n/angular-locale_es-es.js
+js/i18n/angular-locale_sk-sk.js
+js/i18n/app-locale_en-us.js
+js/i18n/app-locale_es-es.js
+js/i18n/app-locale_sk-sk.js
 
 NETWORK:
 *

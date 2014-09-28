@@ -4,8 +4,11 @@
 
         var locale;
         switch (lang) {
+            case "es":
+                locale = "es-es";
+                break;
             case "sk":
-                locale = "sk-sk"
+                locale = "sk-sk";
                 break;
             default:
                 locale = "en-us";
@@ -15,11 +18,11 @@
         document.write(unescape("%3Cscript type='text/javascript' src='js/i18n/app-locale_" + locale + ".js'%3E%3C/script%3E"));
     </script><script src=js/main-build.js></script><script type=text/javascript>
         var inmobi_conf = {
-            siteid: "f9a2cade13ce40f3b3d46b40f29f331f",
+            siteid: "4028cba631d63df10131e1d3191d00cb",
+            //siteid: "f9a2cade13ce40f3b3d46b40f29f331f",
             slot: "15",
             manual: true,
             autoRefresh: 60,
-            test: true,
-            testdeviceid: "FxOS Emulator"
+            test: true
         };
     </script><script type=text/javascript src=http://cf.cdn.inmobi.com/ad/inmobi.js></script></head><body ng-controller="AppCtrl as main" ng-class=animation role=application><ng-view class=view></ng-view></body></html>

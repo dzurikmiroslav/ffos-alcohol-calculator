@@ -23,11 +23,11 @@
             "description": "Application to calculate blood alcohol content."
         },
         "es": {
-            "name": "Calculadora de alcohol",
+            "name": "Alcohol calculator",
             "description": "Aplicación para calcular el contenido de alcohol en sangre."
         },
         "sk": {
-            "name": "Alkohol kalkulačka",
+            "name": "Alcohol calculator",
             "description": "Aplikácia na výpočet obsahu alkoholu v krvi."
         }
     }

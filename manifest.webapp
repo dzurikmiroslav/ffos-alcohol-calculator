@@ -2,14 +2,14 @@
     "version": "1.0.0-snapshot",
     "name": "Alcohol calculator",
     "description": "Application to calculate blood alcohol content.",
-    "launch_path": "/index.html",
-    "appcache_path": "/manifest.appcache",
+    "launch_path": "/ffos-alcohol-calculator/index.html",
+    "appcache_path": "/ffos-alcohol-calculator/manifest.appcache",
     "installs_allowed_from": ["*"],
     "icons": {
-        "16": "/icons/icon_16.png",
-        "48": "/icons/icon_48.png",
-        "60": "/icons/icon_60.png",
-        "128": "/icons/icon_128.png"
+        "16": "/ffos-alcohol-calculator/icons/icon_16.png",
+        "48": "/ffos-alcohol-calculator/icons/icon_48.png",
+        "60": "/ffos-alcohol-calculator/icons/icon_60.png",
+        "128": "/ffos-alcohol-calculator/icons/icon_128.png"
     },
     "developer": {
         "name": "Miroslav Dzúrik",

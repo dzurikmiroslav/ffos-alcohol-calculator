@@ -24,7 +24,7 @@
         },
         "es": {
             "name": "Alcohol calculator",
-            "description": "Aplicación para calcular el contenido de alcohol en sangre."
+            "description": "Esta aplicación sólo se utiliza para calcular el contenido de alcohol estimado en la sangre."
         },
         "sk": {
             "name": "Alcohol calculator",

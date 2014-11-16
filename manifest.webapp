@@ -1,9 +1,8 @@
 {
-    "version": "1.0.0-snapshot",
+    "version": "0.0.1",
     "name": "Alcohol calculator",
     "description": "Application to calculate blood alcohol content.",
     "launch_path": "/ffos-alcohol-calculator/index.html",
-    "appcache_path": "/ffos-alcohol-calculator/manifest.appcache",
     "installs_allowed_from": ["*"],
     "icons": {
         "16": "/ffos-alcohol-calculator/icons/icon_16.png",
@@ -24,7 +23,7 @@
         },
         "es": {
             "name": "Alcohol calculator",
-            "description": "Esta aplicación sólo se utiliza para calcular el contenido de alcohol estimado en la sangre."
+            "description": "Aplicación para calcular el contenido de alcohol en sangre."
         },
         "sk": {
             "name": "Alcohol calculator",
